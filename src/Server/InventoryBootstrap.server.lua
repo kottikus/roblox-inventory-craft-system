@@ -1,0 +1,1 @@
+require(script.Parent:WaitForChild("Inventory"):WaitForChild("InventoryService")).Init()
